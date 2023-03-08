@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Proper Typography</name>
+  <author>Weidengeist</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>weidengeist.propertypography</packageId>
+  <description>This mod changes the layout of various text elements in the game, especially physical units, so that they obey the common typographical rules. The modified elements are adjustable to your liking via an XML file in the language folder of this mod.</description>
+</ModMetaData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- {0}: Degree symbol (°); {1}: N, S, W, or E. -->
+  <ProperTypography_GeoCoord>{0} {1}</ProperTypography_GeoCoord>
+
+  <!-- Minus is set slighty higher than the en-dash. -->
+  <ProperTypography_Division_Operator>  ∕  </ProperTypography_Division_Operator>
+  <ProperTypography_Division_Units> ∕ </ProperTypography_Division_Units>
+  <ProperTypography_Division_XofY> ∕ </ProperTypography_Division_XofY>
+  <ProperTypography_Minus>−</ProperTypography_Minus>
+  <ProperTypography_Range>–</ProperTypography_Range>
+
+  <ProperTypography_Multiplication_NumberLeft> ×</ProperTypography_Multiplication_NumberLeft>
+  <ProperTypography_Multiplication_NumberRight>× </ProperTypography_Multiplication_NumberRight>
+  <ProperTypography_Multiplication_TwoNumbers> × </ProperTypography_Multiplication_TwoNumbers>
+  
+  <ProperTypography_Enumeration_lvl0>  • </ProperTypography_Enumeration_lvl0>
+  <ProperTypography_Enumeration_lvl1>      · </ProperTypography_Enumeration_lvl1>
+
+  <ProperTypography_TimeOfDay>:00 h</ProperTypography_TimeOfDay>
+
+  <ProperTypography_Meters>{0} m</ProperTypography_Meters>
+  <ProperTypography_Millimeters>{0} mm</ProperTypography_Millimeters>
+
+  <ProperTypography_Celsius_Single>{0} °C</ProperTypography_Celsius_Single>
+  <ProperTypography_Fahrenheit_Single>{0} °F</ProperTypography_Fahrenheit_Single>
+  <ProperTypography_Kelvin_Single>{0} K</ProperTypography_Kelvin_Single>
+  
+  <ProperTypography_Celsius_Range>{0}–{1} °C</ProperTypography_Celsius_Range>
+  <ProperTypography_Fahrenheit_Range>{0}–{1} °F</ProperTypography_Fahrenheit_Range>
+  <ProperTypography_Kelvin_Range>{0}–{1} K</ProperTypography_Kelvin_Range>
+  
+  <ProperTypography_Percentage>{0} %</ProperTypography_Percentage>
+
+  <ProperTypography_QuotationOpening>»</ProperTypography_QuotationOpening>
+  <ProperTypography_QuotationClosing>«</ProperTypography_QuotationClosing>
+
+</LanguageData>
